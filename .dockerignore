@@ -1,0 +1,11 @@
+.git
+.idea
+.vscode
+node_modules
+dist
+coverage
+test
+evidencias
+*.pdf
+*.log
+.env*
